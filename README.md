@@ -2,7 +2,7 @@
 - 👀 I’m interested in using my programming to things easier
 - 🌱 I’m currently learning python ,c++, java, javascprit
 - 💞️ I’m looking to collaborate on anyone who is in to Game Dev/Web Dev
-- 📫 How to reach me jonahwaigwa2003@gmail.com/IG(jona.h)/Discord(jona.h#1749)
+- 📫 How to reach me jonahwaigwa2003@gmail.com/IG(jona.h_03)/Discord(jona.h#1749)
 
 <!---
 jonah03/jonah03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
